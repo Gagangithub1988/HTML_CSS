@@ -1,0 +1,24 @@
+.container .jumbotron{
+  background: green;
+  color:cyan;
+  background-image: url(https://image.shutterstock.com/z/stock-vector-big-set-neon-sing-game-room-label-and-logo-gamer-banner-logo-emblem-and-label-bright-signboard-1095146978.jpg);
+  background-repeat:repeat-x;
+  background-size: cover;
+  text-align-last: center;
+  text-decoration-style: dotted;
+
+}
+td{
+  height: 150px;
+  width: 150px;
+  border: 5px solid red;
+  text-align: center;
+  font-size: 100px;
+  color: green;
+}
+table{
+  margin: auto;
+}
+button{
+  text-decoration-color: red;
+}
