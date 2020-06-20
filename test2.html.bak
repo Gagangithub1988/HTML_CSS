@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>Document</title>
+ </head>
+ <body>
+ <h1>Employee Information</h1>
+ <table border="10">
+ 	<thead>
+		<th>ENO</th>
+		<th>ENAME</th>
+		<th>ESAL</th>
+		<th>EADDR</th>
+	</thead>
+	<tr>
+		<td>M9006960</td>
+		<td>Gagan</td>
+		<td>5000</td>
+		<td>Berhampur</td>
+	</tr>
+	<tr>
+		<td>M9006060</td>
+		<td>Bandhan</td>
+		<td>5000</td>
+		<td>Cuttack</td>
+	</tr>
+	<tr>
+		<td>M9007070</td>
+		<td>Khirod</td>
+		<td>5000</td>
+		<td>Anugul</td>
+	</tr>
+	<tr>
+		<td>M9005050</td>
+		<td>Gopal</td>
+		<td>5000</td>
+		<td>Sambalpur</td>
+	</tr>
+</table>
+  
+ </body>
+</html>

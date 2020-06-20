@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>Oscar Award 2018</title>
+ </head>
+ <body>
+ <h1>Oscar Awards Winners List 2018</h1>
+ <table border="1">
+ 	<thead>
+		<th>S.No</th>
+		<th>Winner</th>
+		<th>Winner Pic</th>
+		<th>Category</th>
+		<th>Country Flag</th>
+		<th>View Profile</th>
+	</thead>
+</table>
+  
+ </body>
+</html>
